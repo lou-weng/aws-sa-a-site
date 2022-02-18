@@ -1,0 +1,19 @@
+.navContainer {
+    min-width: 100% - var(--layout-offset);
+    min-height: 100%;
+    background-color: var(--orange);
+    margin-left: auto;
+    margin-right: auto;
+    padding: var(--padding-default);
+    text-align: left;
+    position: sticky;
+}
+
+a > h1{
+    padding: var(--padding-default);
+}
+
+.navButton {
+    display: flex;
+    margin: var(--padding-default)
+}

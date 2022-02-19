@@ -9,10 +9,12 @@ export default function PageTemplate({ data, props }) {
 
     return (
         <>
-            <LayoutComponent>
+            <LayoutComponent id="top">
                 <h1>{frontmatter.title}</h1>
                 <hr></hr>
                 <div dangerouslySetInnerHTML={{ __html: html }}></div>
+                <br></br>
+                <a href="#top" class="topButton amazonButton">☝️ Back to top</a>
             </LayoutComponent>
         </>
     )

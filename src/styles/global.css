@@ -55,3 +55,7 @@ code {
 td, th {
 	border: 1px solid;
 }
+
+h5 {
+	color: var(--blue)
+}

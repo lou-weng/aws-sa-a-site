@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## History of AWS
-2002: Launched as an internal service to allow for rapid development of applications. 
+2002: Launched as an internal service to allow for rapid development of applications.   
 2006: Launched for public use with S3, EC2, and SQS
 
 ## Important Terms
@@ -15,7 +15,7 @@ order: 1
 * AWS services often have a regional scope
 * Example: us-east-1, us-west-1  
 
-Factors that affect choosing the region
+#### Factors that affect choosing the region
 * **Compliance**: governance and legal requirements may require services to run in particular regions. PIPEDA in Canada requires all data stored to be located within Canadian borders
 * **Latency**: having regions closer to users ensure low latency of services
 * **Availability**: different regions may have different services available

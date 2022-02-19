@@ -41,6 +41,9 @@ const HomeComponent = () => {
                 Stephane Marek's Solution's Architect course</a>
             <h4>Practice Labs</h4>
             <h4>Practice Tests</h4>
+            <hr></hr>
+            <br></br>
+            <a href="#top" class="amazonButton">☝️ Back to Top</a>
         </>
     )
 }

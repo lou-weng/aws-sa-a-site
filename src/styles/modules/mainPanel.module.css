@@ -1,5 +1,6 @@
 .mainContainer {
     min-width: var(--layout-offset);
+    max-width: var(--layout-offset);
     min-height: 100%;
     margin: auto;
     display: block;

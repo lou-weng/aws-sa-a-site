@@ -1,4 +1,4 @@
-@import "amazon-fonts/fonts/stylesheet.css";
+@import url(https://cdn.jsdelivr.net/npm/amazon-fonts@1.0.1/fonts/stylesheet.css);
 
 :root {
 	--orange: #FF9900;

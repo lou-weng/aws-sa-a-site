@@ -19,5 +19,17 @@ module.exports = {
 				path: `${__dirname}/src/content`,
 			},
 		},
+		{
+			resolve: `gatsby-transformer-remark`,
+			options: {
+				footnotes: true,
+				tableOfContents: {
+					heading: null,
+					maxDepth: 6
+				},
+				gfm: true,
+				plugins: []
+			},
+		},
 	]
 };

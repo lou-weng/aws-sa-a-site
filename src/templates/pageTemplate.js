@@ -10,6 +10,8 @@ export default function PageTemplate({ data, props }) {
     return (
         <>
             <LayoutComponent>
+                <h1>{frontmatter.title}</h1>
+                <hr></hr>
                 <div dangerouslySetInnerHTML={{ __html: html }}></div>
             </LayoutComponent>
         </>
@@ -19,6 +21,9 @@ export default function PageTemplate({ data, props }) {
 export const pageQuery = graphql`
     query PageQuery($slug: String!) {
         markdownRemark (frontmatter: { slug: { eq: $slug } }) {
+            frontmatter {
+                title
+            }
             html
         }
     }

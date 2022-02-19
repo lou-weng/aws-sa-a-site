@@ -4,6 +4,7 @@
 	--orange: #FF9900;
 	--black: #000000;
     --blue: #146EB4;
+	--light-grey: #f3f0f0;
 
     --layout-offset: 70%;
 	--padding-small: 0.75rem;
@@ -34,4 +35,23 @@ a:hover, a > h1:hover {
 	text-decoration: none;
 	padding: var(--padding-small);
 	display: inline-flex;
+}
+
+strong {
+	color: var(--blue);
+	font-weight: bold;
+}
+
+h3 {
+	color: var(--orange)
+}
+
+code {
+	background-color: var(--light-grey);
+	display: block;
+	padding: var(--padding-small)
+}
+
+td, th {
+	border: 1px solid;
 }

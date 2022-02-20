@@ -40,7 +40,7 @@ const HomeComponent = () => {
                     <h4>Learning</h4>
                         <a class="amazonButton"
                             href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/">
-                            Stephane Marek's Solution's Architect course</a>
+                            Stephane Marek's Solutions Architect course</a>
                         <br/><br/>
                         <a class="amazonButton"
                             href="https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-certification-preparation-for-aws-2021-1-2977/">

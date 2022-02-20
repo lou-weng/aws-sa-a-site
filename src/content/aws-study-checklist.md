@@ -71,8 +71,8 @@ topic: Miscellaneous
 - [ ] AWS Single Sign-On
 - [ ] AWS WAF
 #### Storage:
-- [ ] Amazon Elastic Block Store (Amazon EBS)
-- [ ] Amazon Elastic File System (Amazon EFS)
+- [X] Amazon Elastic Block Store (Amazon EBS)
+- [X] Amazon Elastic File System (Amazon EFS)
 - [ ] Amazon FSx
 - [ ] Amazon S3
 - [ ] Amazon S3 Glacier

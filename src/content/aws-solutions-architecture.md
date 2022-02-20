@@ -10,6 +10,18 @@ type: Solutions Architecture
 4. Security
 5. Operational Excellence
 
+## Best Practices
+
+### Resource Instantiation
+##### How do we best leverage the cloud to speed up deployment of applications?
+* EC2
+  * Use "golden AMI" with everything already installed and configured
+    * Launch future instances using golden AMI
+  * Bootstrap instance with user data instead of manual configurations
+  * Hybrid (use AMI and bootstrapping with Elastic Beanstalk)
+* RDS & EBS Volumes
+  * Boot from snapshots
+
 ## Case Studies
 ### Stateless Web Application
 
@@ -46,7 +58,7 @@ type: Solutions Architecture
 9. How to diminish cost?
 * Reserve instances (at least one in two AZs) to reduce cost 
 
-### Stateful Web Application
+### Stateful Web Application (Persistence)
 #### Case Study: MyClothes.com
 * shopping cart for users to buy clothes online
 * be able to scale horizontally
@@ -87,15 +99,15 @@ type: Solutions Architecture
 * Restrict all EC2 traffic to load balancer
 * Restrict all datastores (RDS, Cache) traffic to EC2 instances
 
-### Stateful Web Application
+### Stateful Web Application (Storage)
 #### Case Study: Wordpress.com
 * scalable wordpress site
 * access and display picture uploads
 
+##### Case Progression
 1. Create RDS/Aurora architecture
 2. How do we store images?
 * Use EBS volume attached to EC2 instance
 3. How do we scale storage (EBS)?
 * Each instance has their own EBS volume, which means only one server has access to an image
 * Use EFS to allow all EC2 instances to access one central point of storage
-* 

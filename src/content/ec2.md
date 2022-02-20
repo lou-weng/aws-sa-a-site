@@ -171,3 +171,17 @@ m5.2xlarge
 | HTTP | TCP | 80 | 0.0.0.0/0 | Optional Text |
 
 The follow example allows traffic from any source IP to communicate HTTP traffic with the EC2 instance through port 80
+
+### Amazon Machine Image (EC2)
+* customization of an EC2 instance
+* pre-packaged configuration of an instance that you can use to deploy multiple instances quickly
+* types of AMIs
+  * public (AWS provided)
+  * custom (make and maintain yourself)
+  * AWS marketplace AMI (provided by a third party
+
+#### Creating an AMI
+1. start an instance customize it
+2. stop the instance
+3. build an AMI
+4. launch instances using AMI

@@ -46,6 +46,16 @@ h3 {
 	color: var(--orange)
 }
 
+h5 {
+	font-size: medium;
+}
+
+h6 {
+	font-size: smaller;
+	font-style: italic;
+	font-weight: normal;
+}
+
 code {
 	background-color: var(--light-grey);
 	display: block;

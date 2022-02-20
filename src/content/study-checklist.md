@@ -21,7 +21,7 @@ title: AWS Study Checklist
 - [ ] AWS Elastic Beanstalk
 - [ ] Amazon Elastic Container Service (Amazon ECS)
 - [ ] Amazon Elastic Kubernetes Service (Amazon EKS)
-- [ ] Elastic Load Balancing (Amazon ELB)
+- [X] Elastic Load Balancing (Amazon ELB)
 - [ ] AWS Fargate
 - [ ] AWS Lambda
 #### Database:

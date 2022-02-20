@@ -8,6 +8,16 @@ order: 1
 2002: Launched as an internal service to allow for rapid development of applications.   
 2006: Launched for public use with S3, EC2, and SQS
 
+## Why Cloud
+
+#### Scalability
+* Vertical: increasing size/performance of a single resource
+* Horizontal: increasing number of resources
+
+#### Availability
+* Running systems in at least two data centers (AZs)
+* Resist against data center failures
+
 ## Important Terms
 
 ### Region

@@ -77,11 +77,11 @@ m5.2xlarge
   * all upfont (largest discount)
 * You need to reserve a specific instance type as well
 * Multiple types of reserved instances
-  * Standard reserved
-    * Convertible reserved
-  * change EC2 instance type
-    * Scheduled reserved
-  * specific launch time window
+  * **Standard** reserved
+  * **Convertible** reserved
+    * change EC2 instance type
+  * **Scheduled** reserved
+    * specific launch time window
 
 #### Spot Instances
 * up to 90% discount compared to on-demand

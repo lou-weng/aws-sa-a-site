@@ -11,7 +11,7 @@ const NavComponent = () => {
                 <StaticQuery
                     query={graphql`
                         query MyQuery {
-                            allMarkdownRemark {
+                            allMarkdownRemark(sort: { fields: [frontmatter___title], order: ASC }) {
                                 edges {
                                     node {
                                         id

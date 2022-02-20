@@ -1,5 +1,6 @@
 ---
 slug: ec2-storage
-title: EC2 Storage - Elastic Block and File Storage (EBS & EFS)
+title: Elastic Block Storage (EBS)
+topic: Storage
 ---
-
+TODO

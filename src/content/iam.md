@@ -1,6 +1,7 @@
 ---
 slug: iam
 title: Identity and Access Management (IAM)
+type: Security, Identity, Compliance
 ---
 ## Takeaway
 ### Important Note

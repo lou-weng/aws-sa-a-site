@@ -1,6 +1,7 @@
 ---
 slug: checklist
 title: AWS Study Checklist
+topic: Miscellaneous
 ---
 ## List of all possible services on Solutions Architect Exam
 #### Analytics:
@@ -25,10 +26,10 @@ title: AWS Study Checklist
 - [ ] AWS Fargate
 - [ ] AWS Lambda
 #### Database:
-- [ ] Amazon Aurora
+- [X] Amazon Aurora
 - [ ] Amazon DynamoDB
 - [ ] Amazon ElastiCache
-- [ ] Amazon RDS
+- [X] Amazon RDS
 - [ ] Amazon Redshift
 #### Management and Governance:
 - [ ] AWS Auto Scaling
@@ -76,8 +77,10 @@ title: AWS Study Checklist
 - [ ] Amazon S3
 - [ ] Amazon S3 Glacier
 - [ ] AWS Storage Gateway
+#### Additional:
+- [ ] AWS Elastic Load Balancer SSL
 
-## List of content covered in AWS Developer Associate Exam
+<!-- ## List of content covered in AWS Developer Associate Exam
 #### Analytics:
 - [ ] Amazon Elasticsearch Service (Amazon ES)
 - [ ] Amazon Kinesis
@@ -120,4 +123,4 @@ title: AWS Study Checklist
 - [ ] AWS Identity and Access Management (IAM)
 - [ ] AWS Key Management Service (AWS KMS)
 #### Storage:
-- [ ] Amazon S3
+- [ ] Amazon S3 -->

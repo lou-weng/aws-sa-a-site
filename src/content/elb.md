@@ -1,8 +1,10 @@
 ---
 slug: elb
 title: Elastic Load Balancer (ELB)
+topic: Compute
 ---
 
+## ELB Fundamentals
 * Load balancers are servers that forward traffic to other servers
 * Allow systems to handle heavy traffic and distribute load
 * Health check instances to catch and handle instance failure

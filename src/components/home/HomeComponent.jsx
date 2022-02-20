@@ -3,8 +3,8 @@ import * as React from 'react'
 const HomeComponent = () => {
     return (
         <>
-            <h1>Welcome to my personal AWS study site!</h1>
-            <h2>AWS Solutions Architect Associate Certification</h2>
+            <h1>Welcome to my AWS study site</h1>
+            <h2>AWS Solutions Architect Associate Certification 2022</h2>
             <hr></hr>
             <h2>Exam Information</h2>
             <ul>
@@ -29,28 +29,28 @@ const HomeComponent = () => {
             </ol>
 
             <h2>Useful Resources</h2>
-            <h3>Free</h3>
-            <h4>Learning</h4>
-            <h4>Practice Labs</h4>
-                <a class="amazonButton"
-                    href="https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all"
-                >AWS Hands-on Tutorials</a>
-            <h4>Practice Tests</h4>
-            <h3>Paid</h3>
-            <h4>Learning</h4>
-                <a class="amazonButton"
-                    href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/">
-                    Stephane Marek's Solution's Architect course</a>
-                <br/><br/>
-                <a class="amazonButton"
-                    href="https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-certification-preparation-for-aws-2021-1-2977/">
-                    CloudAcademy Solutions Architect Course</a>
-                    <br/><br/>
-                <a class="amazonButton"
-                    href="https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02-4KYV">
-                    ACloudGuru Solutions Architect Course</a>
-            <h4>Practice Labs</h4>
-            <h4>Practice Tests</h4>
+                <h3>Free Resources</h3>
+                    <h4>Learning</h4>
+                    <h4>Practice Labs</h4>
+                        <a class="amazonButton"
+                            href="https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all"
+                        >AWS Hands-on Tutorials</a>
+                    <h4>Practice Tests</h4>
+                <h3>Paid Resources</h3>
+                    <h4>Learning</h4>
+                        <a class="amazonButton"
+                            href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/">
+                            Stephane Marek's Solution's Architect course</a>
+                        <br/><br/>
+                        <a class="amazonButton"
+                            href="https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-certification-preparation-for-aws-2021-1-2977/">
+                            CloudAcademy Solutions Architect Course</a>
+                            <br/><br/>
+                        <a class="amazonButton"
+                            href="https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02-4KYV">
+                            ACloudGuru Solutions Architect Course</a>
+                    <h4>Practice Labs</h4>
+                    <h4>Practice Tests</h4>
             <hr></hr>
             <br></br>
             <a href="#top" class="amazonButton">☝️ Back to Top</a>

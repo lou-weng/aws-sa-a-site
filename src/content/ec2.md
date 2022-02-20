@@ -1,6 +1,7 @@
 ---
 slug: ec2
 title: Elastic Compute Cloud (EC2)
+type: Compute
 ---
 
 ## EC2 Fundamentals

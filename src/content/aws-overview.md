@@ -1,6 +1,7 @@
 ---
 slug: overview
 title: AWS Overview
+type: Miscellaneous
 order: 1
 ---
 

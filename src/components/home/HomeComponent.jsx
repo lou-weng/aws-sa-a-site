@@ -27,6 +27,7 @@ const HomeComponent = () => {
                 <li>Each each topic, try using AWS and familiarizing yourself with the console</li>
                 <li>Complete practice tests</li>
             </ol>
+            <p>NOTE: The notes in this site are a synthesis of Stephane Marek's Solutions Architect Course on Udemy and smatterings of my own side research.</p>
 
             <h2>Useful Resources</h2>
                 <h3>Free Resources</h3>

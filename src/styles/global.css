@@ -46,10 +46,6 @@ h3 {
 	color: var(--orange)
 }
 
-h5 {
-	font-size: medium;
-}
-
 h6 {
 	font-size: smaller;
 	font-style: italic;
@@ -67,5 +63,6 @@ td, th {
 }
 
 h5 {
-	color: var(--blue)
+	color: var(--blue);
+	font-size: smaller;
 }

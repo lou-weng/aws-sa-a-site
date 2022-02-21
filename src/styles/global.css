@@ -54,8 +54,8 @@ h6 {
 
 code {
 	background-color: var(--light-grey);
-	display: block;
-	padding: var(--padding-small)
+	padding: var(--padding-small);
+	display: inline-flex;
 }
 
 td, th {
@@ -65,4 +65,8 @@ td, th {
 h5 {
 	color: var(--blue);
 	font-size: smaller;
+}
+
+.image {
+	height: 75pt;
 }

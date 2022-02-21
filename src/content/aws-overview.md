@@ -3,6 +3,7 @@ slug: overview
 title: AWS Overview
 type: Miscellaneous
 order: 1
+image: aws.png
 ---
 
 ## History of AWS

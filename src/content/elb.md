@@ -2,6 +2,7 @@
 slug: elb
 title: Elastic Load Balancer (ELB)
 topic: Compute
+image: elb.png
 ---
 
 ## ELB Fundamentals

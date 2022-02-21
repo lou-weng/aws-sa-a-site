@@ -2,6 +2,7 @@
 slug: solutions-architecture
 title: AWS Solutions Architecture
 type: Solutions Architecture
+image: aws.png
 ---
 ## Pillars of Well Architected Applications
 1. Cost

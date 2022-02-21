@@ -10,7 +10,8 @@ export default function PageTemplate({ data, props }) {
     return (
         <>
             <LayoutComponent id="top">
-                <h1>{frontmatter.title}</h1>
+                <img class="image" alt={frontmatter.slug} src={`https://d252snfiy3jjfc.cloudfront.net/${frontmatter.image}`}></img>
+                <h1>{frontmatter.title}</h1> 
                 <hr></hr>
                 <div dangerouslySetInnerHTML={{ __html: html }}></div>
                 <br></br>
@@ -24,7 +25,9 @@ export const pageQuery = graphql`
     query PageQuery($slug: String!) {
         markdownRemark (frontmatter: { slug: { eq: $slug } }) {
             frontmatter {
+                image
                 title
+                slug
             }
             html
         }

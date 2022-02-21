@@ -2,6 +2,7 @@
 slug: ebs
 title: Elastic Block Storage (EBS)
 topic: Storage
+image: ebs.png
 ---
 
 ### EBS Volumes

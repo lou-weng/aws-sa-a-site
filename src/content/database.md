@@ -2,6 +2,7 @@
 slug: database
 title: Relational Database Service (RDS)
 type: Database
+image: rds.png
 ---
 
 ### AWS Relational Database Service (RDS)

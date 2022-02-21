@@ -2,6 +2,7 @@
 slug: checklist
 title: AWS Study Checklist
 topic: Miscellaneous
+image: aws.png
 ---
 ## List of all possible services on Solutions Architect Exam
 #### Analytics:

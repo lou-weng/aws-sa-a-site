@@ -2,8 +2,8 @@
 slug: aurora
 title: Aurora
 type: Database
+image: aurora.png
 ---
-
 ## Aurora Overview
 * proprietary cloud optimized DB service
 * only works for **Postgres** and **MySQL** databases

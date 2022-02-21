@@ -2,6 +2,7 @@
 slug: efs
 title: Elastic File System (EFS)
 type: storage
+image: efs.png
 ---
 ## Elastic File System Overview
 * managed network file system that can be mounted onto any EC2

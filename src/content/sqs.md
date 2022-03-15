@@ -1,7 +1,7 @@
 ---
 slug: sqs
 title: Simple Queue Service (SQS)
-type: App Integration
+type: Application Integration
 image: sqs.png
 ---
 

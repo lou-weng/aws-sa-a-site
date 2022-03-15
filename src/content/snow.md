@@ -1,7 +1,7 @@
 ---
 slug: snow
 title: Snow
-type: Database
+type: Migration & Transfer
 image: snow.png
 ---
 

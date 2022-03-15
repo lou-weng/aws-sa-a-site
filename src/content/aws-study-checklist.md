@@ -10,14 +10,14 @@ image: aws.png
 - [ ] Amazon Elasticsearch Service (Amazon ES)
 - [ ] Amazon EMR
 - [ ] AWS Glue
-- [ ] Amazon Kinesis
+- [X] Amazon Kinesis
 - [ ] Amazon QuickSight
 #### AWS Billing and Cost Management:
 - [ ] AWS Budgets
 - [ ] Cost Explorer
 #### Application Integration:
-- [ ] Amazon Simple Notification Service (Amazon SNS)
-- [ ] Amazon Simple Queue Service (Amazon SQS)
+- [X] Amazon Simple Notification Service (Amazon SNS)
+- [X] Amazon Simple Queue Service (Amazon SQS)
 #### Compute:
 - [X] Amazon EC2
 - [ ] AWS Elastic Beanstalk
@@ -29,11 +29,11 @@ image: aws.png
 #### Database:
 - [X] Amazon Aurora
 - [ ] Amazon DynamoDB
-- [ ] Amazon ElastiCache
+- [X] Amazon ElastiCache
 - [X] Amazon RDS
 - [ ] Amazon Redshift
 #### Management and Governance:
-- [ ] AWS Auto Scaling
+- [X] AWS Auto Scaling
 - [ ] AWS Backup
 - [ ] AWS CloudFormation
 - [ ] AWS CloudTrail
@@ -49,7 +49,7 @@ image: aws.png
 - [ ] AWS DataSync
 - [ ] AWS Migration Hub
 - [ ] AWS Server Migration Service (AWS SMS)
-- [ ] AWS Snowball
+- [X] AWS Snowball
 - [ ] AWS Transfer Family
 #### Networking and Content Delivery:
 - [ ] Amazon API Gateway
@@ -74,7 +74,7 @@ image: aws.png
 #### Storage:
 - [X] Amazon Elastic Block Store (Amazon EBS)
 - [X] Amazon Elastic File System (Amazon EFS)
-- [ ] Amazon FSx
+- [X] Amazon FSx
 - [X] Amazon S3
 - [X] Amazon S3 Glacier
 - [ ] AWS Storage Gateway

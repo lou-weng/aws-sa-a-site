@@ -1,7 +1,7 @@
 ---
 slug: sns
 title: Simple Notification Service (SNS)
-type: App Integration
+type: Application Integration
 image: sns.png
 ---
 

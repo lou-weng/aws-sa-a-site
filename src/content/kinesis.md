@@ -1,7 +1,7 @@
 ---
 slug: kinesis
 title: Kinesis
-type: data
+type: Analytics
 image: kinesis.png
 ---
 

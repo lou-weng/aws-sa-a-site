@@ -62,15 +62,15 @@ image: aws.png
 #### Security, Identity, and Compliance:
 - [ ] AWS Certificate Manager (ACM)
 - [ ] AWS Directory Service
-- [ ] Amazon GuardDuty
+- [X] Amazon GuardDuty
 - [X] AWS Identity and Access Management (IAM)
-- [ ] Amazon Inspector
+- [X] Amazon Inspector
 - [ ] AWS Key Management Service (AWS KMS)
-- [ ] Amazon Macie
+- [X] Amazon Macie
 - [ ] AWS Secrets Manager
-- [ ] AWS Shield
+- [X] AWS Shield
 - [ ] AWS Single Sign-On
-- [ ] AWS WAF
+- [X] AWS WAF
 #### Storage:
 - [X] Amazon Elastic Block Store (Amazon EBS)
 - [X] Amazon Elastic File System (Amazon EFS)

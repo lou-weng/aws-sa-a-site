@@ -65,9 +65,9 @@ image: aws.png
 - [X] Amazon GuardDuty
 - [X] AWS Identity and Access Management (IAM)
 - [X] Amazon Inspector
-- [ ] AWS Key Management Service (AWS KMS)
+- [X] AWS Key Management Service (AWS KMS)
 - [X] Amazon Macie
-- [ ] AWS Secrets Manager
+- [X] AWS Secrets Manager
 - [X] AWS Shield
 - [ ] AWS Single Sign-On
 - [X] AWS WAF
@@ -78,8 +78,6 @@ image: aws.png
 - [X] Amazon S3
 - [X] Amazon S3 Glacier
 - [ ] AWS Storage Gateway
-#### Additional:
-- [ ] AWS Elastic Load Balancer SSL
 
 <!-- ## List of content covered in AWS Developer Associate Exam
 #### Analytics:

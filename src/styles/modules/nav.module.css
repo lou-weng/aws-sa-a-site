@@ -3,13 +3,11 @@
     min-height: 100vh;
     max-height: 100vh;
     background-color: var(--orange);
-    margin-left: auto;
-    margin-right: auto;
     padding-left: var(--padding-default);
     padding-right: var(--padding-default);
     text-align: left;
     position: sticky;
-    overflow: scroll;
+    overflow-y: scroll;
     top: 0px;
 }
 

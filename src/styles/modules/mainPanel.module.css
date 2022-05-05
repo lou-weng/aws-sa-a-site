@@ -5,4 +5,5 @@
     margin: auto;
     display: block;
     padding: var(--padding-large);
+    background-color: white;
 }

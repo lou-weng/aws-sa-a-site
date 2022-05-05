@@ -1,6 +1,6 @@
 ---
 slug: cloudhsm
-title: CloudHSM
+title: Cloud Hardware Security Module
 type: Security, Identity, and Compliance
 image: cloudhsm.png
 ---
